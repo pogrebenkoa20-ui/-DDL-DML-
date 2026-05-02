@@ -19,8 +19,6 @@
 
 <img width="561" height="215" alt="users" src="https://github.com/user-attachments/assets/4339fc47-953b-475f-8360-e18cc9e4941f" />
 
-
-
 1.4. Дайте все права для пользователя sys_temp. 
 <img width="733" height="111" alt="grant all" src="https://github.com/user-attachments/assets/4946f9f4-af6e-4488-b619-080a138df352" />
 
@@ -31,7 +29,6 @@
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 <img width="637" height="331" alt="sys_temp user" src="https://github.com/user-attachments/assets/245bd99f-a8d3-4321-ae71-e8ae5bb5cec2" />
-
 
 Для смены типа аутентификации с sha2 используйте запрос: 
 ```sql
