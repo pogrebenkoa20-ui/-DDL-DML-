@@ -61,6 +61,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 Название таблицы | Название первичного ключа
 customer         | customer_id
 ```
+<img width="241" height="315" alt="table" src="https://github.com/user-attachments/assets/198bc5cf-528c-4ac9-a93f-c6560b06ba1c" />
 
 
 
