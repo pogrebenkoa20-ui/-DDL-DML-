@@ -5,6 +5,7 @@
 
 <img width="755" height="432" alt="install" src="https://github.com/user-attachments/assets/60210cb2-a457-43ee-aea2-629f084475f8" />
 
+.
 <img width="747" height="231" alt="status" src="https://github.com/user-attachments/assets/1756c9f3-8222-4aa8-ad9f-cb1cec69797c" />
 
 
